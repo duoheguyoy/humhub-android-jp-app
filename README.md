@@ -4,7 +4,7 @@ A big thank you to the community humhub
 ## Set you app for your hum hub application 
 
 Name of application is define in string.xml | res/values/string <br>
-Change you primary url in: res/values/string (EN - AR - DE - ES - FR) or add new string for you language <br>
+Change you primary url in: res/values/string (EN - AR - DE - ES - FR - JA) or add new string for you language <br>
 Chane name of link is label of item <br>
 Automatically change the title in top main bar if set: setTitle(getString(R.string.name_label)); in your new menu item <br>
 
