@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb492231d5c15fbc15370fe4d6836e9e3eb7d8d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/5a52da6ef7041dd15f2d5f242928baeb16e2a27c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_126f24732c31e2dcbf65051c0dbf5e486f688f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/23010331ba0a1d6120fe4853454aad99c1db406d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0d548987b318c788cddfd93350e4a8d1555d440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/54f2e922220d85faf4f6f856e1a5fd8af3a562af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29122fd6464855e65f7fb5f308d2dc4d2fbb393e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/70e5b657a4cb6de6c4581407c23f05c84111104f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_434c0314ee0432d9bb3c3f770fa0bc0e76ae91e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/418e5a61ca8ab97c708d4c20300e8e4b4888c771/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21dca827e82417b7c20454bce8949d6c3ec32112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/42e3b59c76a8570c92e22991d84eaf674709b1b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84a3c290914a105a29ed1be2685e5b9aed5f1956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/49b9ee73a2ab355dd11d334ff1865cabb5ba833f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_194d0abebb2c107b842fb86a626eb22a234c3b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/6dd3838f4af84136aee70f3daba4b11cba382a99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_faf7468a059e930638b1cdf9c052a591f0f3b526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/5d70b8736a4b10efa3b5eca3fc8116340a3ac932/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1f7ef946767293f93ebd68d2d9b3da0380d432f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/4cf340316e69239e11ebb9c4f680d05386675f17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3da0916b02cf92c2c5d9dbaffb595938748696c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b21a68c6c436b8c921a1b4266332ba36dd17af36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/15e38c55aba46b7ae44e2ed8e5e16eaeccf3b4fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32b455592573bc761ab8d7ee90f67812b5198fa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/libs/httpmime-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.2.1_dafa086aca7889c9c25fe0f34dc1ef44b4dfdd2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2da2683a53af7079244b719f59ef674aa3887f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/7a8490ec1e7472d4bb10a2bdaa6a21ec3e538aa8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_855ee892eec43b63f6b6eb51b9941e2e10fcb131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/b526f478ec2976c2267dc333ea8fc8e8e5dcd9e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2931afe82c5096c86f9f5f34a4109fa86b8fecbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/b268005ae44731d36065008a795796cf8cfebfde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0f6851c0a3943023fe7bf440dfd388c52fe3b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/ada2612b976d1cc8072f734f610d41eace512fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdcc92154587860ef780b9a0105281a64cf5fc58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/88f06e57a72832d382cd086721890ea290406fd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04ff0af3ef4e287bade6a35fe9bb7eb4eab38a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/9ace6ff9884f3b777fe97920dd49647930626d93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62207a6293d1387b08f198e157dee8692ef75df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/27bb6e4c710535421a792fe862253695286f1a32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9cbdabba632cbf8be001cdbf34110cf42a64015">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32277d27bcb2c5d67364e468b5d06a7e7fde0771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/7ae7bd48d6473d2a675bf34b7891cf31410b327e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc0a959b17ab3dafc38a8bffbe06ddeb9000b51b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d415bd9468755e4be78d24f4a60a8d4d2db3e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/4662bf9661d760bf80c8837ff81885cdfd1db3f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb947ba04c990ed65186d2c9a8e75da46406d1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/097ae1fb44de39881864cee51ec8be8266430823/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3546c88e6ad7d514edda1e63d5786cd53da1b4e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/1b539d4d95e16780d3f4e06ac7b88841fabf48a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5449b44929db30342a64c9879fb3ec556be9966f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/334868f3476676c9e6311a4058cc287a172c6fca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af142d390f61da6a22a108af43c09d2618250fc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/ad53b829c9bc1c513423cce007686dbdd399aca2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83705b6c55787acd794276c1a0dfa0925d6c59f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/062e1e564294889c0f5137be06a4f97c48267b58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d75b1e7a0be7ad20a0c11b928017b3b837e16e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="136166919c94a71e44752e43b692936a1e827cfc">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8f76819e886ddf74d83087e65b41a9e4ab915a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_e131f9b7fa439bd34ff9c3daac594e3b0f5fed08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/francescotonon/.android/build-cache/9a15f3f17591312302292284203087382dcfd0d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1bb824c3b86558a8e76a87ae0d738d662241808/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.becode.boystalk.MainActivity">
+
+
+    <item
+        android:id="@+id/search"
+        android:icon="@mipmap/ic_search_white"
+        android:title="@string/search_label"
+        app:showAsAction=""
+        />
+
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@mipmap/ic_search_white"
+        android:title="@string/home_label"
+        app:showAsAction=""
+        />
+
+    <item
+        android:id="@+id/tab_spaces"
+        android:title="@string/spaces_label"
+        android:icon="@drawable/share_it"
+        app:showAsAction=""
+        />
+
+    <item
+        android:id="@+id/tab_notification"
+        android:title="@string/notification_label"
+        android:icon="@drawable/share_it"
+        app:showAsAction=""
+        />
+<!--    <tab
+        android:id="@+id/tab_home"
+        android:icon="@mipmap/ic_home"
+        android:title="@string/home_label"
+        android:barColorWhenSelected="#61c2d0"/>
+    <tab
+        android:id="@+id/tab_spaces"
+        android:icon="@mipmap/ic_group"
+        android:title="@string/spaces_label"
+        android:barColorWhenSelected="#708fa0"/>
+    <tab
+        android:id="@+id/tab_notification"
+        android:icon="@mipmap/ic_notifications_black_24dp"
+        android:title="@string/notification_label"
+        android:barColorWhenSelected="#293644"/>-->
+</menu>

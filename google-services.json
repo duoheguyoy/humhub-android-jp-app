@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1062110068301",
+    "firebase_url": "https://boystalk-push-call.firebaseio.com",
+    "project_id": "boystalk-push-call",
+    "storage_bucket": "boystalk-push-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062110068301:android:fe9fe29fb681e69c",
+        "android_client_info": {
+          "package_name": "com.lacima.boystalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062110068301-0j34env1b59p8le5la75bgdlbl5jufu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lacima.boystalk",
+            "certificate_hash": "54037e75c083ce749215dbec44f4b53fcf54150c"
+          }
+        },
+        {
+          "client_id": "1062110068301-fa881t5qelv4v7jbs406rf2tga8fro0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMz8N5ZuhP_kL4q_qc-I-MVXNpq4GkZ_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062110068301-fa881t5qelv4v7jbs406rf2tga8fro0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
