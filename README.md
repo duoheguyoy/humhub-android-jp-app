@@ -23,7 +23,7 @@ Create new graphic with pshotoshp, modify res/mipmap/your_logo.png
 ## Create new intem on left menù
 - Add new string on res/values/string
 - Add item on menu/activity_main_drawer.xml and call the string for label, type and url
-- Create new function on MainActivity (java/com.becode.humhub/MainActivity.java). Row line 397 to 444
+- Create new function on MainActivity (java/com.becode.boystalk/MainActivity.java). Row line 397 to 444
   call new string for set type and url 
 - Remember set correctly item_position for view correctly selected item on app
 
