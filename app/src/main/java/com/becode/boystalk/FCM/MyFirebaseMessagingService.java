@@ -15,7 +15,7 @@ import android.util.Log;
 import com.becode.boystalk.MainActivity;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.lacima.boystalk.R;
+import com.becode.boystalk.R;
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 

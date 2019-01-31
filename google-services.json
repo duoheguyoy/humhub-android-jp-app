@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1062110068301:android:fe9fe29fb681e69c",
         "android_client_info": {
-          "package_name": "com.lacima.boystalk"
+          "package_name": "com.becode.boystalk"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "1062110068301-0j34env1b59p8le5la75bgdlbl5jufu8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.lacima.boystalk",
+            "package_name": "com.becode.boystalk",
             "certificate_hash": "54037e75c083ce749215dbec44f4b53fcf54150c"
           }
         },
